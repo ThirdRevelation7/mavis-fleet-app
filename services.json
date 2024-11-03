@@ -1,0 +1,48 @@
+{
+    "brakes": [
+        "052116: Front Rotors",
+        "011254: Rear Rotors",
+        "044598: Front Calipers",
+        "055874: Rear Calipers",
+        "022547: Brake Fluid Exchange",
+        "066521: Front Caliper Brackets",
+        "088956: Rear Caliper Brackets",
+        "077414: Resurface Rotors",
+        "077415: Brake hose",
+        "077416: Bleed Brake system",
+        "BRK001: Front Rotors",
+        "BRK002: Rear Rotors",
+        "BRK003: Front Calipers",
+        "BRK004: Rear Calipers",
+        "BRK005: Brake Fluid Exchange",
+        "BRK006: Front Caliper Brackets",
+        "BRK007: Rear Caliper Brackets",
+        "BRK008: Resurface Rotors",
+        "BRK009: Brake hose",
+        "BRK0010: Bleed Brake system"
+        
+    ],
+    "engine": [
+        "004151: Spark Plugs",
+        "003525: Coil Pack",
+        "001112: Air Filter",
+        "044717: throttle body clean",
+        "004151: Spark Plugs",
+        "003525: Coil Pack",
+        "001112: Air Filter",
+        "044717: throttle body clean",
+        "004151: Spark Plugs",
+        "003525: Coil Pack",
+        "001112: Air Filter",
+        "044717: throttle body clean"
+    ],
+    "erac": [
+        "077341000: 6qt blended oil change",
+        "077287000: Additional quart of blended oil",
+        "046269000: oil filter disposal",
+        "040710000: with a Qty of 4 for the Rotation (every oil change)",
+        "077308000: 6qt Full Synthetic oil change"
+
+    ]
+    
+}
